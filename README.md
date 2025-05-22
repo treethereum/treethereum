@@ -1,4 +1,4 @@
-Treethereum
+# Treethereum
 
 Treethereum is a purpose-driven blockchain project designed to unlock long-term environmental and community value through transparent tokenomics, gradual liquidity rollout, and decentralized governance.
 
